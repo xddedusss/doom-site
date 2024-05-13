@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  background-color: brown;
+    
+}
+h2 {
+  text-align: center;
+  font-size: 50px;
+  padding: 20px;
+  background-color: brown;
+}
+
+
+html {
+  background-image: url(https://wallpapers.com/images/hd/doom-2016-vyjbacll4v94dntt.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+ font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+  width: 25px;
+  height: 25px;
+  
+}
+img {
+  width: 275px;
+  height: 275px;
+}
+.container-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+img.ddd {
+  width: 1000px;
+  height: 500px;
+
+}
+p {
+  background-color: brown;
+  padding: 50px;
+  text-align: center;
+  font-size: 50px;
+}
