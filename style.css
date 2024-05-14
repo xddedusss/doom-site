@@ -30,6 +30,8 @@ a {
   text-decoration: none;
   width: 25px;
   height: 25px;
+  padding: 7px;
+  margin: 7px;
   
 }
 img {
@@ -40,9 +42,8 @@ img {
   display: flex;
   justify-content: space-around;
 }
-img.ddd {
-  width: 1500px;
-  height: 1000px;
-
+p {
+    text-align: center;
+  background-color: brown;
 }
 
